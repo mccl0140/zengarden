@@ -1,0 +1,165 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css';
+
+body {
+	background-color: lightgreen;
+}
+
+header {
+	background-color: lightblue;
+}
+
+.intro {
+	background-color: blue;
+}
+
+.summary {
+
+}
+
+.preamble {
+
+}
+
+.main {
+	background-color: red;
+}
+
+.supporting{
+
+}
+
+.explanation {
+
+}
+
+.participation {
+
+}
+
+.benefits {
+
+}
+
+.requirements {
+
+}
+
+footer {
+	background-color: yellow;
+}
+
+.zen-validate-html {
+
+}
+
+.zen-validate-css {
+
+}
+
+.zen-license {
+
+}
+
+.zen-accessibility {
+
+}
+
+.zen-github {
+
+}
+
+.sidebar {
+	background-color: pink;
+}
+
+.wrapper {
+
+}
+
+.design-selection {
+
+}
+
+.select {
+
+}
+
+.design-name {
+
+}
+
+.designer-name {
+
+}
+
+.design-archives {
+
+}
+
+.archives {
+
+}
+
+.next {
+
+}
+
+.indicator {
+
+}
+
+.viewall {
+
+}
+
+.zen-resources {
+
+}
+
+.resources {
+
+}
+
+.view-css {
+
+}
+
+.css-resources {
+
+}
+
+.zen-faq {
+
+}
+
+.zen-submit {
+
+}
+
+.zen-translations {
+
+}
+
+.extra1 {
+
+}
+
+.extra2 {
+
+}
+
+.extra3 {
+
+}
+
+.extra4 {
+
+}
+
+.extra5 {
+
+}
+
+.extra6 {
+	
+}
